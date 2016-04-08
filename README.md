@@ -15,7 +15,7 @@ __PhantomJS__
 ## 配置
 manager.py:  
 设置gif_dir，gif的存放目录  
-worker.py:
+worker.py:  
 设置manager_host，manager的ip地址
 
 ## 运行
