@@ -3,10 +3,10 @@
 爬取多玩图库中的搞笑gif,目前只支持windows
 
 ## 依赖
-__selenium__
+__selenium__  
 pip install selenium
 
-__requests__
+__requests__  
 pip install selenium
 
 __PhantomJS__  
